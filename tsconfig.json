@@ -2,6 +2,7 @@
   "compilerOptions": {
     /* Basic Options */
     "target": "ES2019",
+    "outDir": "./build",
     "allowJs": true,
     "sourceMap": true,
 

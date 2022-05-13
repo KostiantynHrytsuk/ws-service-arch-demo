@@ -1,1 +1,0 @@
-{"version":3,"file":"InitialConnect.js","sourceRoot":"","sources":["InitialConnect.ts"],"names":[],"mappings":";;;;;AAAA,+GAAuF;AAGvF,MAAqB,cAAe,SAAQ,+BAAqB;IAC7D,YAAY,OAAwB,EAAE,IAAY;QAC9C,KAAK,CAAC,OAAO,EAAE,IAAI,CAAC,CAAC;IACzB,CAAC;IAED,OAAO,CAAC,OAAO;QACX,IAAI,CAAC,cAAc,CAAC,aAAa,CAAC,OAAO,CAAC,UAAU,CAAC,CAAA;IACzD,CAAC;CACJ;AARD,iCAQC"}
