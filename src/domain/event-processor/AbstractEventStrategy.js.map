@@ -1,0 +1,1 @@
+{"version":3,"file":"AbstractEventStrategy.js","sourceRoot":"","sources":["AbstractEventStrategy.ts"],"names":[],"mappings":";;AAGA,MAA8B,qBAAqB;IAK/C,YAAsB,OAAwB,EAAE,IAAY;QACxD,IAAI,CAAC,cAAc,GAAG,OAAO,CAAC;QAC9B,IAAI,CAAC,IAAI,GAAG,IAAI,CAAC;IACrB,CAAC;IAED,OAAO;QACH,OAAO,IAAI,CAAC,IAAI,CAAC;IACrB,CAAC;CAGJ;AAfD,wCAeC"}

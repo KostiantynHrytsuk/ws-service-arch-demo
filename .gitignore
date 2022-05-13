@@ -1,0 +1,13 @@
+.idea
+.vagrant/*
+.DS_Store
+node_modules/*
+tmp/*
+logs/*
+.module-cache
+node_modules/
+build/
+.npmrc
+log/*
+tmp/
+.nyc_output
